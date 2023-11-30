@@ -1,0 +1,14 @@
+Masina
+BOSCH
+30
+5
+
+Aragaz
+CACAT
+50
+MARE
+
+Araga
+caca
+20
+mic

@@ -1,0 +1,3 @@
+﻿  POO_practice.cpp
+C:\Users\David\source\repos\POO practice\POO practice\POO_practice.cpp(13,6): warning C4101: 'opt': unreferenced local variable
+  POO practice.vcxproj -> C:\Users\David\source\repos\POO practice\x64\Debug\POO practice.exe
