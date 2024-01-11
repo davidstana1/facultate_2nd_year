@@ -1,0 +1,3 @@
+﻿  Program.cpp
+C:\Users\david\source\repos\pregatire marire\pregatire marire\Program.cpp(150,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  pregatire marire.vcxproj -> C:\Users\david\source\repos\pregatire marire\x64\Debug\pregatire marire.exe

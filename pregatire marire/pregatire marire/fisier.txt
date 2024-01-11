@@ -1,0 +1,13 @@
+Lantisor
+30
+1
+10
+Argint
+Perla
+
+Cercei
+50
+2
+20
+AurGalben
+Surub
