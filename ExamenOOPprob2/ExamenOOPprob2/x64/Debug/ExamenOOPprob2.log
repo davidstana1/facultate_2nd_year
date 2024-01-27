@@ -1,0 +1,4 @@
+﻿  Program.cpp
+C:\Users\David\source\repos\ExamenOOPprob2\ExamenOOPprob2\Program.cpp(12,6): warning C4101: 'data_service': unreferenced local variable
+C:\Users\David\source\repos\ExamenOOPprob2\ExamenOOPprob2\Program.cpp(12,20): warning C4101: 'diagonala_ecran': unreferenced local variable
+  ExamenOOPprob2.vcxproj -> C:\Users\David\source\repos\ExamenOOPprob2\x64\Debug\ExamenOOPprob2.exe
